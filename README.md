@@ -3,7 +3,7 @@
 
 ## QR Code Generator
 
-by iOTech Enterprise
+by <a href="https://iotech.co.th">iOTech Enterprise</a>
 
 ## Install
 - git clone https://github.com/iotech-thailand/qrcode-generator.git
