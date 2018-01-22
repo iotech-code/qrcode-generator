@@ -74,6 +74,8 @@
                 color: #4b719a;
             }
         </style>
+        <!-- Place this tag in your head or just before your close body tag. -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
     </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -100,6 +102,10 @@
                 <h2>Just pass the parameter to here.</h2>
                 <p class="code">
                 http://qrcode.iotech.co.th/api/generate?text=<strong>Your QRCode Data</strong>&title=<strong>Your QR Code Title</strong>
+                </p>
+                <p>
+                <!-- Place this tag where you want the button to render. -->
+                    <a class="github-button" href="https://github.com/iotech-thailand/qrcode-generator/fork" data-size="large" aria-label="Fork iotech-thailand/qrcode-generator on GitHub">Fork me</a>
                 </p>
             </div>
         </div>

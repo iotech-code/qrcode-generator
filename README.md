@@ -1,2 +1,14 @@
-# qrcode-generater
-QR Code Generator
+<p align="center"><img src="https://iotech.co.th/wp-content/uploads/2018/01/cropped-Group-12-1.png"></p>
+
+
+## QR Code Generator
+
+by iOTech Enterprise
+
+## Install
+- git clone https://github.com/iotech-thailand/qrcode-generator.git
+- composer install
+- php artisan serv
+
+## Demo
+- http://qrcode.iotech.co.th/
