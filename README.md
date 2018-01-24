@@ -12,3 +12,7 @@ by <a href="https://iotech.co.th">iOTech Enterprise</a>
 
 ## Demo
 - http://qrcode.iotech.co.th/
+
+## Update 24 Jan 2018
+- Add thai font support
+- Included Kanit font (Google font)
